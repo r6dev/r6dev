@@ -2,6 +2,7 @@
 ### 👤 Age
 - 14
 ### 🔨 Skills
--  Programming with Java; web development with HTML & CSS
+-  Programming with Java
+-  Web development with HTMX; HTML & CSS
 ### 📫 Location
 - Norway
